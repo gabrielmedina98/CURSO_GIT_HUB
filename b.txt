@@ -1,2 +1,3 @@
 TESTE 
 Realizando o comando de o pull no clone
+enviando a funcionalidade para o git x 
